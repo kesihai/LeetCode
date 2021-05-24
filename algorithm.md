@@ -28,3 +28,14 @@
     所以总的时间复杂度为: sqrt(n) * m + n*sqrt(n) + n + n * sqrt(n).
 ```
 
+#### 前缀和与差分
+```text
+前缀和: sum[i] 等于 sum(a[0], ...., a[i]);
+性质: 
+   ① a[i] = sum[i] - sum[i - 1];
+   ②sum[a[le], a[le + 1], ..., a[ri]) = sum[ri] - sum[le - 1];
+   
+
+
+
+```
