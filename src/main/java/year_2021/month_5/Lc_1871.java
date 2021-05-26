@@ -8,7 +8,7 @@ package year_2021.month_5;
        a. 差分思想, 每发现s[i]=='0' && 可以到达, vis[i + minJump] +=1, vis[i + maxJump + 1] -= 1;
 
  */
-class Solution {
+class Lc_1871 {
   public boolean canReach(String s, int minJump, int maxJump) {
     int n = s.length();
     int[] vis = new int[s.length()];
@@ -33,7 +33,4 @@ class Solution {
     }
     return vis[n - 1] > 0 && s.charAt(n - 1) == '0';
   }
-}
-
-public class Lc_1871 {
 }
