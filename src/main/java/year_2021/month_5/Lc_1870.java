@@ -1,6 +1,6 @@
 package year_2021.month_5;
 
-class Solution {
+class Lc_1870 {
   public int minSpeedOnTime(int[] dist, double hour) {
     int le = 1, ri = (int)1e7 + 5;
     int ans = -1;
@@ -27,7 +27,4 @@ class Solution {
     }
     return cost <= hour;
   }
-}
-
-public class Lc_1870 {
 }
