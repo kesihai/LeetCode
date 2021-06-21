@@ -102,3 +102,35 @@ class Lc_1851 {
     }
   }
 }
+
+/*
+
+// 优先队列的解法
+class Solution {
+  public int[] minInterval(int[][] intervals, int[] queries) {
+    Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+    int[][] q = new int[queries.length][2];
+    for (int i = 0; i < queries.length; i++) {
+      q[i][0] = queries[i];
+      q[i][1] = i;
+    }
+    Arrays.sort(q, (a, b) -> a[0] - b[0]);
+    PriorityQueue<int[]> queue = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+    int[] ans = new int[queries.length];
+    int pos = 0;
+    for (int i = 0; i < q.length; i++) {
+      int start = q[i][0];
+      while (pos < intervals.length && intervals[pos][0] <= start) {
+        queue.add(new int[] {intervals[pos][1] - intervals[pos][0] + 1, intervals[pos][1]});
+        pos++;
+      }
+      while (!queue.isEmpty() && queue.peek()[1] < start) {
+        queue.poll();
+      }
+      ans[q[i][1]] = queue.isEmpty() ? -1 : queue.peek()[0];
+    }
+    return ans;
+  }
+}
+
+ */
