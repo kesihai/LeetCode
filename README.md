@@ -4,8 +4,8 @@
 自己 leetcode Id : https://leetcode-cn.com/u/kesihai/
 
 ## 数据结构
-+ [莫队算法](./src/main/resources/莫队算法.md)
-+ [树状数组](./src/main/resources/树状数组.md)
++ [莫队算法](src/main/resources/datastruct/莫队算法.md)
++ [树状数组](src/main/resources/datastruct/树状数组.md)
 + [RMQ]
 
 ## 图论
@@ -20,3 +20,7 @@
 + [manacher](./src/main/resources/characher/manacher.md)
 + [KMP]
 + [ac自动机]
+
+## 其他
++ [二分查找](./src/main/resources/other/二分查找.md)
++ [其他](./src/main/resources/other/其他.md)
