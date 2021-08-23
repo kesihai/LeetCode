@@ -21,9 +21,16 @@
 + [KMP]
 + [ac自动机]
 
+## DP
++ [Distinct subsequence](./src/main/resources/dp/DistinctSequence.md)
++ [LIS](./src/main/resources/dp/LIS.md)
+
+## 数学
++ [素数](./src/main/resources/math/素数.md)
+
 ## 其他
 + [二分查找](./src/main/resources/other/二分查找.md)
 + [其他](./src/main/resources/other/其他.md)
 
-## 数学
-+ [素数](./src/main/resources/math/素数.md)
+
+
