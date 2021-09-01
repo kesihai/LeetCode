@@ -7,9 +7,11 @@
 + [莫队算法](src/main/resources/datastruct/莫队算法.md)
 + [树状数组](src/main/resources/datastruct/树状数组.md)
 + [RMQ](src/main/resources/datastruct/RMQ.md)
++ [线段树]
 
 ## 图论
 + [图基本概念](./src/main/resources/graph/基础概念.md)
++ [并查集]
 + [最短路](./src/main/resources/graph/最短路.md)
 + [最小生成树](./src/main/resources/graph/最小生成树.md)
 + [拓扑排序]
@@ -20,6 +22,7 @@
 + [manacher](./src/main/resources/characher/manacher.md)
 + [KMP]
 + [ac自动机]
++ [字典树]
 
 ## DP
 + [Distinct subsequence](./src/main/resources/dp/DistinctSequence.md)
@@ -31,6 +34,6 @@
 ## 其他
 + [二分查找](./src/main/resources/other/二分查找.md)
 + [其他](./src/main/resources/other/其他.md)
-
++ [Two Point]()
 
 
