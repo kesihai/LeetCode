@@ -15,7 +15,7 @@
 + [最短路](./src/main/resources/graph/最短路.md)
 + [最小生成树](./src/main/resources/graph/最小生成树.md)
 + [拓扑排序]
-+ [二分图匹配]
++ [二分图匹配](./src/main/resources/graph/二分图匹配.md)
 + [LCA 树上的公共祖先]
 
 ## 字符串
@@ -34,6 +34,6 @@
 ## 其他
 + [二分查找](./src/main/resources/other/二分查找.md)
 + [其他](./src/main/resources/other/其他.md)
-+ [Two Point]()
++ [Two Point](./src/main/resources/other/TwoPoint.md)
 
 
