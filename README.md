@@ -35,5 +35,6 @@
 + [二分查找](./src/main/resources/other/二分查找.md)
 + [其他](./src/main/resources/other/其他.md)
 + [Two Point](./src/main/resources/other/TwoPoint.md)
++ [前缀和与差分]()
 
 
