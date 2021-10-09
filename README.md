@@ -20,7 +20,7 @@
 
 ## 字符串
 + [manacher](./src/main/resources/characher/manacher.md)
-+ [KMP]
++ [KMP](./src/main/resources/characher/kmp.md)
 + [ac自动机]
 + [字典树]
 
@@ -35,6 +35,6 @@
 + [二分查找](./src/main/resources/other/二分查找.md)
 + [其他](./src/main/resources/other/其他.md)
 + [Two Point](./src/main/resources/other/TwoPoint.md)
-+ [前缀和与差分]()
++ [前缀和与差分](./src/main/resources/other/前缀和与差分.md)
 
 
