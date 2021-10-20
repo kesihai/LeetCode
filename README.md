@@ -7,7 +7,7 @@
 + [莫队算法](src/main/resources/datastruct/莫队算法.md)
 + [树状数组](src/main/resources/datastruct/树状数组.md)
 + [RMQ](src/main/resources/datastruct/RMQ.md)
-+ [线段树]
++ [线段树](./src/main/resources/datastruct/线段树.md)
 
 ## 图论
 + [图基本概念](./src/main/resources/graph/基础概念.md)
@@ -21,7 +21,7 @@
 ## 字符串
 + [manacher](./src/main/resources/characher/manacher.md)
 + [KMP](./src/main/resources/characher/kmp.md)
-+ [ac自动机]
++ [ac自动机](./src/main/resources/characher/ac自动机.md)
 + [字典树]
 
 ## DP
