@@ -22,7 +22,7 @@
 + [manacher](./src/main/resources/characher/manacher.md)
 + [KMP](./src/main/resources/characher/kmp.md)
 + [ac自动机](./src/main/resources/characher/ac自动机.md)
-+ [字典树]
++ [字典树](./src/main/resources/characher/ac自动机.md)
 
 ## DP
 + [Distinct subsequence](./src/main/resources/dp/DistinctSequence.md)
