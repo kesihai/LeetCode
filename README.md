@@ -14,7 +14,7 @@
 + [并查集]
 + [最短路](./src/main/resources/graph/最短路.md)
 + [最小生成树](./src/main/resources/graph/最小生成树.md)
-+ [拓扑排序]
++ [拓扑排序](./src/main/resources/characher/ac自动机.md)
 + [二分图匹配](./src/main/resources/graph/二分图匹配.md)
 + [LCA 树上的公共祖先]
 
@@ -25,6 +25,7 @@
 + [字典树](./src/main/resources/characher/ac自动机.md)
 
 ## DP
++ [DP](./src/main/resources/dp/dp.md)
 + [Distinct subsequence](./src/main/resources/dp/DistinctSequence.md)
 + [LIS](./src/main/resources/dp/LIS.md)
 
